@@ -38,4 +38,6 @@ My name is Yo, Yoannes. I'm a Brazilian dude currently living in Japan.
 Come and ask me on Instagram 😀
 
 [![Yo stats](https://github-readme-stats.vercel.app/api?username=yoannes&count_private=true&show_icons=true)](https://github.com/yoannes)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannes&layout=compact)](https://github.com/komurananami/github-readme-stats)
