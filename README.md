@@ -32,6 +32,7 @@ My name is Yo, Yoannes. I'm a Brazilian dude currently living in Japan.
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-black?logo=docker&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/terraform-black?logo=terraform&style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-2f3241?logo=electron&style=for-the-badge)
 
 ## Ok, show me what you did?
 
