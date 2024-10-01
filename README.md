@@ -36,8 +36,9 @@ My name is Yo, Yoannes. I'm a Brazilian dude currently living in Japan.
 
 ## Ok, show me what you did?
 
-I've done a few things over the years. Send me a message, and let's chat more about it.
+I've done a few things over the years, mainly SaaS development. Send me a message, and let's chat more about it.
 
+## Fancy graphs
 [![Yo stats](https://github-readme-stats.vercel.app/api?username=yoannes&count_private=true&show_icons=true&theme=dracula)](https://github.com/yoannes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoannes&layout=compact&theme=dracula)](https://github.com/yoannes/github-readme-stats)
