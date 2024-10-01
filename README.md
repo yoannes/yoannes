@@ -4,9 +4,9 @@
 
 My name is Yo, Yoannes. I'm a Brazilian dude currently living in Japan.
 
-10+ years of experience in software development, am I a senior developer? I'm not sure, you tell me. 😆
+15+ years of experience in software development, am I a senior developer? I'm not sure, you tell me. 😆
 
-[![IG](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/ticomyoyo)
+[![IG](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/yoyonobouken)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/yoannes)
 
 ## Technologies I've worked with
@@ -36,7 +36,7 @@ My name is Yo, Yoannes. I'm a Brazilian dude currently living in Japan.
 
 ## Ok, show me what you did?
 
-Come and ask me on Instagram 😀
+I've done a few things over the years. Send me a message, and let's chat more about it.
 
 [![Yo stats](https://github-readme-stats.vercel.app/api?username=yoannes&count_private=true&show_icons=true&theme=dracula)](https://github.com/yoannes)
 
